@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is from repo to local
+=======
+this is from local 
+>>>>>>> a8c03a5 (file created)
